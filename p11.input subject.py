@@ -1,0 +1,6 @@
+maths=int(input("Enter maths mark =>"))
+sci=int(input("Enter sci mark =>"))
+print("total=",maths+sci)
+print("total=",maths-sci)
+print("total=",maths*sci)
+print("total=",maths/sci)
